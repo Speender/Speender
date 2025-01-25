@@ -4,3 +4,4 @@
 - 📫 How to reach me: ramiepondar11@gmail.com ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speender&layout=donut-vertical)](https://github.com/Speender/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Speender&hide=contribs,prs)
